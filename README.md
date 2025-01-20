@@ -8,3 +8,4 @@
 * npm run dev
 * assets store images
 * npm i react-icons, aos, react-scroll
+* node_module folder is empty (Full with automatic / remove all for upload easy )
